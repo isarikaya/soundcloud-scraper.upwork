@@ -1,0 +1,18 @@
+{
+  "name": "soundcloud-scraper.upwork",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "dev": "node index.js"
+  },
+  "keywords": [],
+  "author": "Ibrahim Sarikaya",
+  "license": "ISC",
+  "dependencies": {
+    "dotenv": "^16.3.1",
+    "puppeteer": "^21.4.1",
+    "soundcloud-scraper": "^5.0.3",
+    "soundcloud.ts": "^0.5.2"
+  }
+}
